@@ -15,3 +15,6 @@ legend {
   outline-offset: .1px;
 }
 
+fieldset + fieldset {
+  margin-top: 3rem;
+}
